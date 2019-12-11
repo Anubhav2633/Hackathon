@@ -1,0 +1,15 @@
+﻿[
+	{
+		"Employee Name": "Rahul Jain",
+		"Parent Project": "KPMG Development",
+		"Project Manager": "Mohit Goyal",
+		"Total Engineering Hours": "80.00",
+		"Total Billable Hours": "64.00",
+		"Total Non-Billable Hours": "16.00",
+		"Utilization": "80.00%",
+		"Status": "Approved"
+	},
+	{
+		"Employee Name": ""
+	}
+]
