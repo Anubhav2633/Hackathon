@@ -1,0 +1,29 @@
+﻿[
+	{
+		"Employee Name": "Rahul Jain",
+		"Parent Project": "KPMG Development",
+		"Team": "Dev Team",
+		"Project Manager": "Mohit Goyal",
+		"Total Engineering Hours": "80.00",
+		"Daily Task": "48.00",
+		"Training": "16.00",
+		"Leave": "16.00",
+		"Utilization": "60.00%",
+		"Status": "Approved"
+	},
+	,
+	{
+		"Employee Name": ""
+	}{
+		"Employee Name": "Mohit Goyal",
+		"Parent Project": "KPMG Development",
+		"Team": "Leads Team",
+		"Project Manager": "Mazhar Sheikh",
+		"Total Engineering Hours": "80.00",
+		"Daily Task": "56.00",
+		"Training": "16.00",
+		"Leave": "0.00",
+		"Utilization": "70.00%",
+		"Status": "Approved"
+	}
+]
