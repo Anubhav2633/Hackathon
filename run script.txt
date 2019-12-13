@@ -1,0 +1,17 @@
+site name : https://ninjaxori.github.io/hackathon/
+
+final folder: final
+
+commands
+
+npm install
+
+npm install -g @angular/cli
+
+npm install -g json-server
+
+json-server --watch db.json
+
+open a new terminal --
+
+ng serve
