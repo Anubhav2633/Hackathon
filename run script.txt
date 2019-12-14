@@ -15,3 +15,13 @@ json-server --watch db.json
 open a new terminal --
 
 ng serve
+
+-------------------
+build command
+
+npm i -g angular-cli-ghpages
+
+ng build  --base-href "https://ninjaxori.github.io/hackathon/"
+
+copy the code from ..project_repo/dist/my-app/**All files** to github accoount ninjaxori--> hackathon(repositorr name)
+username: ninjaxori  pss: Dev@Test@1234   or Dev@test@1234
